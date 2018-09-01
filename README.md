@@ -1,8 +1,9 @@
-# **curso-go-udemy**
+# **curso: Go (Golang): Explorando a Linguagem do Google**
+## *Professor: Leonardo Leitão*
 
 *Concorrência vs Paralelismo*
 
-Go é uma linguagem concorrente
+Go é uma linguagem concorrente (**Round-robin**)
 
 **Paralelismo** - excutar código simultaneamente em processadores físicos diferentes.
 
