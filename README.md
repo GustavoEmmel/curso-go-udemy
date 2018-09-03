@@ -1,4 +1,4 @@
-# **curso: Go (Golang): Explorando a Linguagem do Google**
+# **Go (Golang): Explorando a Linguagem do Google**
 ## *Professor: Leonardo Leitão*
 
 *Concorrência vs Paralelismo*
